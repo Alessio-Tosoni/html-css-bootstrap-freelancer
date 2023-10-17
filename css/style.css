@@ -1,0 +1,84 @@
+header{
+    background-color:#2c3e50;
+    color: white;
+}
+.jumbo{
+    background-color: #1abc9c;
+    color: white;
+}
+.linea-bianca{
+    width: 60px;
+    height: 3.5px;
+    display: inline-block;
+    border-radius: 20px;
+    background-color: white;
+}
+.linea-nera{
+    width: 60px;
+    height: 3.5px;
+    display: inline-block;
+    border-radius: 20px;
+    background-color: black;
+}
+
+.jumbo-img{width: 50%;}
+#sottotitoletto{
+    margin-top: 15px;
+}
+#qualifiche{
+    margin-top: 1 5px;
+}
+#prova-a{
+    background-color:#ba4b63;
+    margin-top: 20px;
+    color: white;
+    text-align: center;
+  
+}
+#prova-b{
+    background-color:#1ea4b6;
+    margin-top: 20px;
+    color: white;
+    text-align: center;
+   
+}
+#prova-c{
+    background-color:#140f0f;
+    margin-top: 20px;
+    color: white;
+    text-align: center;
+   
+}
+#prova-d{
+    background-color:#1c83c1;
+    margin-top: 20px;
+    color: white;
+    text-align: center;
+   
+}
+#prova-e{
+    background-color:#0e38b5;
+    margin-top: 20px;
+    color: white;
+    text-align: center;
+  
+}
+#prova-f{
+    background-color:#ccb2a3;
+    margin-top: 20px;
+    color: white;
+    text-align: center;   
+}
+
+.about-us{
+    background-color: #1abc9c;
+    color: white;
+}
+.about-us a{
+    width: 40%;
+}
+
+footer{
+    background-color: #3a546d;
+    color: white;
+}
