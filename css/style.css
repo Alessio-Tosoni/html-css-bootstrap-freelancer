@@ -2,6 +2,7 @@ header{
     background-color:#2c3e50;
     color: white;
 }
+
 .jumbo{
     background-color: #1abc9c;
     color: white;
@@ -32,7 +33,7 @@ header{
     background-color:#ba4b63;
     margin-top: 20px;
     color: white;
-    text-align: center;
+    text-align: center;     
   
 }
 #prova-b{
