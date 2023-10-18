@@ -29,46 +29,21 @@ header{
 #qualifiche{
     margin-top: 1 5px;
 }
-#prova-a{
-    background-color:#ba4b63;
-    margin-top: 20px;
-    color: white;
-    text-align: center;     
-  
+
+.port{
+    position: relative;
 }
-#prova-b{
-    background-color:#1ea4b6;
-    margin-top: 20px;
-    color: white;
-    text-align: center;
-   
+.folio{
+    position: absolute;
+    top: 30%;
+    right: 37%;
+    opacity: 0;
 }
-#prova-c{
-    background-color:#140f0f;
-    margin-top: 20px;
-    color: white;
-    text-align: center;
-   
+.port:hover{
+    filter: grayscale(0.75);
 }
-#prova-d{
-    background-color:#1c83c1;
-    margin-top: 20px;
-    color: white;
-    text-align: center;
-   
-}
-#prova-e{
-    background-color:#0e38b5;
-    margin-top: 20px;
-    color: white;
-    text-align: center;
-  
-}
-#prova-f{
-    background-color:#ccb2a3;
-    margin-top: 20px;
-    color: white;
-    text-align: center;   
+.port:hover .folio{
+    opacity: 1;
 }
 
 .about-us{
